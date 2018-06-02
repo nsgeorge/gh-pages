@@ -1,6 +1,11 @@
-# インデックスページ
+---
+layout: default
+title: index
+---
 
-## テスト
+# Index page
+
+## test
 
 ```java
 public class Test {
