@@ -3,7 +3,7 @@ layout: default
 title: index
 ---
 
-# nsgeorgeのgh-pages置き場
+# md置き場@nsgeorge
 
 ## プログラミング言語
 
