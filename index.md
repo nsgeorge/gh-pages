@@ -30,6 +30,11 @@ title: index
 
  - [HTML5&CSS3デザインブック (ステップバイステップ形式でマスターできる), エビスコム](https://www.amazon.co.jp/HTML5-CSS3%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%96%E3%83%83%E3%82%AF-%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%90%E3%82%A4%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E5%BD%A2%E5%BC%8F%E3%81%A7%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%A7%E3%81%8D%E3%82%8B-%E3%82%A8%E3%83%93%E3%82%B9%E3%82%B3%E3%83%A0/dp/4883379647/ref=sr_1_1?ie=UTF8&qid=1528213176&sr=8-1&keywords=html5+css3+%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%96%E3%83%83%E3%82%AF)
 
+## コンピューターサイエンス
+
+ - [ビットコインはどのようにして動いているのか？ ビザンチン将軍問題、ハッシュ関数、ブロックチェーン、PoWプロトコル | 大石哲之 | 金融・投資 | Kindleストア | Amazon](https://www.amazon.co.jp/%E3%83%93%E3%83%83%E3%83%88%E3%82%B3%E3%82%A4%E3%83%B3%E3%81%AF%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E3%81%97%E3%81%A6%E5%8B%95%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F-%E3%83%93%E3%82%B6%E3%83%B3%E3%83%81%E3%83%B3%E5%B0%86%E8%BB%8D%E5%95%8F%E9%A1%8C%E3%80%81%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A5%E9%96%A2%E6%95%B0%E3%80%81%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%80%81PoW%E3%83%97%E3%83%AD%E3%83%88%E3%82%B3%E3%83%AB-%E5%A4%A7%E7%9F%B3%E5%93%B2%E4%B9%8B-ebook/dp/B00IZGMCFC)
+ - [Translations – Mastering Bitcoin](https://bitcoinbook.info/translations-of-mastering-bitcoin/)
+
 ## 開発一般
 
  - [リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice), Dustin Boswell, Trevor Foucher, 須藤 功平, 角 征典](https://www.amazon.co.jp/%E3%83%AA%E3%83%BC%E3%83%80%E3%83%96%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89-%E2%80%95%E3%82%88%E3%82%8A%E8%89%AF%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%9B%B8%E3%81%8F%E3%81%9F%E3%82%81%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A7%E5%AE%9F%E8%B7%B5%E7%9A%84%E3%81%AA%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-Theory-practice-Boswell/dp/4873115655/ref=sr_1_1?ie=UTF8&qid=1528212971&sr=8-1&keywords=%E3%83%AA%E3%83%BC%E3%83%80%E3%83%96%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89)
