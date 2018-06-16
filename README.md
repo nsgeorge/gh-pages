@@ -4,6 +4,15 @@
 
 https://nsgeorge.github.io/gh-pages/
 
+# Tips
+
+#### imageの作り方
+
+ 1. keynoteでイメージを作る
+ 1. PDFで出力する
+ 1. PDFを編集して欲しい画像だけになるようにする
+ 1. [convert pdf to anything - CloudConvert](https://cloudconvert.com/pdf-to-anything)でsvgに変換する
+
 ## references
 
  - [benbalter/jekyll-relative-links： A Jekyll plugin to convert relative links to markdown files to their rendered equivalents](https://github.com/benbalter/jekyll-relative-links)
