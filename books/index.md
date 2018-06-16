@@ -1,8 +1,3 @@
----
-layout: default
-title: md置き場 - これまでに読んだ書籍とその感想
----
-
 # md置き場
 
 #### PHP
