@@ -1,6 +1,6 @@
 ---
 layout: default
-title: md置き場@nsgeorge - ナレッジ整理
+title: md置き場 - ナレッジ整理
 ---
 
-# md置き場@nsgeorge
+# md置き場

@@ -18,7 +18,7 @@ title: md置き場 - これまでに読んだ書籍とその感想
  - [独習Javaサーバサイド編 第2版, 山田 祥寛](https://www.amazon.co.jp/gp/product/4798130494/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
  - [Java本格入門 ～モダンスタイルによる基礎からオブジェクト指向・実用ライブラリまで, 谷本 心, 阪本 雄一郎, 岡田 拓也, 秋葉 誠, 村田 賢一郎, Acroquest Technology株式会社, 工学, Kindleストア](https://www.amazon.co.jp/gp/product/B071D8RYR5/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1)
  - [Spring徹底入門 Spring FrameworkによるJavaアプリケーション開発, 株式会社NTTデータ, コンピュータ・IT, Kindleストア](https://www.amazon.co.jp/gp/product/B01IEWNLBU/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)
- - [Java](programming_language/java.md)
+ - [Java](/books/programming_language/java.md)
 
 #### Kotlin
 
@@ -57,4 +57,4 @@ title: md置き場 - これまでに読んだ書籍とその感想
 
 ## サンプル
 
- - [サンプル](sample/sample.html)
+ - [サンプル](/sample/sample.html)
