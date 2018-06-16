@@ -2,4 +2,4 @@
 layout: default
 ---
 
-## 準備中
+## [ビットコイン](bitcoin.md)
