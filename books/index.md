@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # md置き場
 
 #### PHP
