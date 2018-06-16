@@ -1,9 +1,9 @@
 ---
 layout: default
-title: md置き場@nsgeorge - これまでに読んだ書籍とその感想
+title: md置き場 - これまでに読んだ書籍とその感想
 ---
 
-# md置き場@nsgeorge
+# md置き場
 
 #### PHP
 
