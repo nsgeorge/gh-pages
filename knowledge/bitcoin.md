@@ -45,7 +45,7 @@ layout: default
 
 ## トランザクション
 
-![トランザクションのデータ構造](../resources/img/bitcoin_transaction.pdf)
+![トランザクションのデータ構造](../resources/img/bitcoin_transaction.svg)
 
 ## ブロックチェーン
 
