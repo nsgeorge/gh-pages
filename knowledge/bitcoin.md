@@ -65,7 +65,7 @@ layout: default
 意図的に不正な情報を送ってくる者などがいるため、誰かが集中管理して
 「君はOK、君はNG」と判断しない限り、全体で整合性の取れた決断は下せません。
 
-しかし、2008年になり1本の論文が発表されました。
+これに対し、2008年にとある1本の論文が発表されました。
 
  - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 
