@@ -84,7 +84,7 @@ description: ビットコインの仕組みとそのコア技術であるブロ�
 ネットワーク全体で整合性の取れた状態を保つことは困難と言えます。
 
 これに対し、2008年にSatoshi Nakamotoさん（※このNakamotoさん、かなり謎が多く個人なのかグループなのか正体は今も明らかになっていません。）
-が新しい電子決済システムを提案しました。
+が新しい電子通貨システムを提案しました。
 
  - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 
