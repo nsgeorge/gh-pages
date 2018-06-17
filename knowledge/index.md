@@ -2,4 +2,4 @@
 layout: default
 ---
 
-## [ビットコイン](bitcoin.md)
+## [ビットコイン／ブロックチェーン 徹底解説](bitcoin.md)

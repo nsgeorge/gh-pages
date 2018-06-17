@@ -3,3 +3,6 @@
 #   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
 title: md置き場 - @nsgeorge
 theme: jekyll-theme-slate
+lang: ja_JP
+plugins:
+  - jekyll-seo-tag
