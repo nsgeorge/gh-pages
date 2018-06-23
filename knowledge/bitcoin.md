@@ -224,4 +224,6 @@ txidは「トランザクションID」と呼ばれるトランザクション�
 
 ## マイニング
 
+## ブロックチェーン攻撃
 
+ - [暗号通貨史上で最も大きいブロックチェーンへの攻撃について。モナコインでの事件の重要性。 ｜ JunyaHirano.com](https://junyahirano.com/about_selfish_mining/)
