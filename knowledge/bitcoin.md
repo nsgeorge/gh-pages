@@ -287,9 +287,21 @@ Aliceは自身のウォレットにある秘密鍵でトランザクションの
 
 ## その他ネタ
 
+#### トランザクション手数料と承認速度の関係性
 #### base58check
 #### Vanity address
 #### SPVノードのトランザクション検索におけるプライバシーリスク
+#### Markle treeとMarke path
+#### Difficuly targetと電気代
+#### マネージドプール
+#### Coloredcoin
+#### Primecoin
+#### Namecoin
+
+#### ソフトフォークとハードフォーク
+
+ - [仮想通貨のハードフォークとは｜仕組み・メリットデメリットを解説-coinge（コインジ）仮想通貨・ブロックチェーンの情報サイト](https://coinge.jp/post-63)
+
 #### ブロックチェーン攻撃
 
  - [暗号通貨史上で最も大きいブロックチェーンへの攻撃について。モナコインでの事件の重要性。 ｜ JunyaHirano.com](https://junyahirano.com/about_selfish_mining/)
