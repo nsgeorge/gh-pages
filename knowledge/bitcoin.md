@@ -260,7 +260,7 @@ Aさんが偽のトランザクションを作ることはできません。
 
 ---
 
-![トランザクションのデータ構造詳細](../resources/img/bitcoin_transaction_all.svg)
+![トランザクションのデータ構造詳細](../resources/img/bitcoin_transaction_detail.svg)
 
 *トランザクションのデータ構造詳細*
 
