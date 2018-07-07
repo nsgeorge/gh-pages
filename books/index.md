@@ -19,6 +19,11 @@ layout: default
 
 #### Kotlin
 
+#### Go
+
+ - [スターティングGo言語 ｜ 松尾愛賀](programming_language/スターティングGo言語.md)
+
+
 #### Shell
 
 #### HTML, CSS
