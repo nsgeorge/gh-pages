@@ -32,7 +32,7 @@ layout: default
 
 ## コンピューターサイエンス
 
- - [ビットコインはどのようにして動いているのか？ 数学を使わずに理解するビットコインの動作原理 ｜ 大石哲之](computer_science/ビットコインはどのようにして動いているのか？ 数学を使わずに理解するビットコインの動作原理.md)
+ - [ビットコインはどのようにして動いているのか？ 数学を使わずに理解するビットコインの動作原理 ｜ 大石哲之](computer_science/ビットコインはどのようにして動いているのか数学を使わずに理解するビットコインの動作原理.md)
  - [Translations – Mastering Bitcoin](computer_science/Translations – Mastering Bitcoin.md)
 
 ## 開発一般
