@@ -39,6 +39,8 @@ layout: default
 
  - [リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice), Dustin Boswell, Trevor Foucher, 須藤 功平, 角 征典](https://www.amazon.co.jp/%E3%83%AA%E3%83%BC%E3%83%80%E3%83%96%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89-%E2%80%95%E3%82%88%E3%82%8A%E8%89%AF%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%9B%B8%E3%81%8F%E3%81%9F%E3%82%81%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A7%E5%AE%9F%E8%B7%B5%E7%9A%84%E3%81%AA%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-Theory-practice-Boswell/dp/4873115655/ref=sr_1_1?ie=UTF8&qid=1528212971&sr=8-1&keywords=%E3%83%AA%E3%83%BC%E3%83%80%E3%83%96%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89)
  - [新装版 達人プログラマー 職人から名匠への道, ＡｎｄｒｅｗＨｕｎｔ, ＤａｖｉｄＴｈｏｍａｓ, 村上雅章, 工学](https://www.amazon.co.jp/gp/product/B06W567M44/ref=oh_aui_d_detailpage_o06_?ie=UTF8&psc=1)
+ - [プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則 ｜ 上田勲 ](development/プリンシプル オブ プログラミング 3年目までに身につけたい一生役立つ101の原理原則.md)
+
 
 ## プロジェクトマネジメント
 
