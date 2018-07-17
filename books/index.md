@@ -46,12 +46,12 @@ layout: default
 
 #### 読んでる
 
- - [人工知能は人間を超えるか (角川ＥＰＵＢ選書) ｜ 松尾 豊 ｜ 工学 ｜ Kindleストア ｜ Amazon](https://www.amazon.co.jp/gp/product/B00UAAK07S/ref=oh_aui_d_detailpage_o07_?ie=UTF8&psc=1)
+ - [人工知能は人間を超えるか (角川ＥＰＵＢ選書) ｜ 松尾 豊 ｜ 工学](https://www.amazon.co.jp/gp/product/B00UAAK07S/ref=oh_aui_d_detailpage_o07_?ie=UTF8&psc=1)
 
 #### 買った
 
- - [闘うプログラマー［新装版］　ビル・ゲイツの野望を担った男達 eBook： G パスカル ザカリー, 山岡 洋一： Kindleストア](https://www.amazon.co.jp/gp/product/B00GSHI04M/ref=oh_aui_d_detailpage_o06_?ie=UTF8&psc=1)
- - [世界でもっとも強力な9のアルゴリズム ｜ ジョン マコーミック, 長尾 高弘 ｜ コンピュータ・IT ｜ Kindleストア ｜ Amazon](https://www.amazon.co.jp/gp/product/B00FR78X64/ref=oh_aui_d_detailpage_o05_?ie=UTF8&psc=1)
+ - [闘うプログラマー［新装版］　ビル・ゲイツの野望を担った男達 eBook： G パスカル ザカリー, 山岡 洋一](https://www.amazon.co.jp/gp/product/B00GSHI04M/ref=oh_aui_d_detailpage_o06_?ie=UTF8&psc=1)
+ - [世界でもっとも強力な9のアルゴリズム ｜ ジョン マコーミック, 長尾 高弘 ｜ コンピュータ・IT](https://www.amazon.co.jp/gp/product/B00FR78X64/ref=oh_aui_d_detailpage_o05_?ie=UTF8&psc=1)
 
 ## 開発一般
 
