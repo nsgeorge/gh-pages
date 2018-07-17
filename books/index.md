@@ -74,7 +74,7 @@ layout: default
 
 #### 買った
 
- - [イシューからはじめよ ― 知的生産の「シンプルな本質」 ｜ 安宅和人 ｜ ビジネス教育 ｜ Kindleストア ｜ Amazon](https://www.amazon.co.jp/gp/product/B00MTL340G/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)
+ - [イシューからはじめよ ― 知的生産の「シンプルな本質」 ｜ 安宅和人 ｜ ビジネス教育](https://www.amazon.co.jp/gp/product/B00MTL340G/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)
 
 ## デザイン
 
