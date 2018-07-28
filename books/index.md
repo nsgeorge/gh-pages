@@ -42,10 +42,7 @@ layout: default
 
  - [ビットコインはどのようにして動いているのか？ 数学を使わずに理解するビットコインの動作原理 ｜ 大石哲之](computer_science/ビットコインはどのようにして動いているのか数学を使わずに理解するビットコインの動作原理.md)
  - [Translations – Mastering Bitcoin](computer_science/Translations – Mastering Bitcoin.md)
-
-#### 読んでる
-
- - [人工知能は人間を超えるか (角川ＥＰＵＢ選書) ｜ 松尾 豊 ｜ 工学](https://www.amazon.co.jp/gp/product/B00UAAK07S/ref=oh_aui_d_detailpage_o07_?ie=UTF8&psc=1)
+ - [人工知能は人間を超えるか (角川ＥＰＵＢ選書) ｜ 松尾 豊 ｜ 工学](computer_science/人工知能は人間を超えるか.md)
 
 #### 買った
 
@@ -62,7 +59,7 @@ layout: default
  - [リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice), Dustin Boswell, Trevor Foucher, 須藤 功平, 角 征典](https://www.amazon.co.jp/%E3%83%AA%E3%83%BC%E3%83%80%E3%83%96%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89-%E2%80%95%E3%82%88%E3%82%8A%E8%89%AF%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%9B%B8%E3%81%8F%E3%81%9F%E3%82%81%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A7%E5%AE%9F%E8%B7%B5%E7%9A%84%E3%81%AA%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-Theory-practice-Boswell/dp/4873115655/ref=sr_1_1?ie=UTF8&qid=1528212971&sr=8-1&keywords=%E3%83%AA%E3%83%BC%E3%83%80%E3%83%96%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%89)
  - [新装版 達人プログラマー 職人から名匠への道, ＡｎｄｒｅｗＨｕｎｔ, ＤａｖｉｄＴｈｏｍａｓ, 村上雅章, 工学](https://www.amazon.co.jp/gp/product/B06W567M44/ref=oh_aui_d_detailpage_o06_?ie=UTF8&psc=1)
 
-#### 買った
+#### 読んでる
 
  - [世界でもっとも強力な9のアルゴリズム ｜ ジョン マコーミック, 長尾 高弘 ｜ コンピュータ・IT](https://www.amazon.co.jp/gp/product/B00FR78X64/ref=oh_aui_d_detailpage_o05_?ie=UTF8&psc=1)
 
