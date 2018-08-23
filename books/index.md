@@ -38,7 +38,7 @@ layout: default
 
  - [HTML5&CSS3デザインブック (ステップバイステップ形式でマスターできる), エビスコム](https://www.amazon.co.jp/HTML5-CSS3%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%96%E3%83%83%E3%82%AF-%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%90%E3%82%A4%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E5%BD%A2%E5%BC%8F%E3%81%A7%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%A7%E3%81%8D%E3%82%8B-%E3%82%A8%E3%83%93%E3%82%B9%E3%82%B3%E3%83%A0/dp/4883379647/ref=sr_1_1?ie=UTF8&qid=1528213176&sr=8-1&keywords=html5+css3+%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%96%E3%83%83%E3%82%AF)
 
-## コンピューターサイエンス
+## IT基礎
 
 #### 感想書いた
 
@@ -46,9 +46,11 @@ layout: default
  - [Translations – Mastering Bitcoin](computer_science/Translations – Mastering Bitcoin.md)
  - [人工知能は人間を超えるか (角川ＥＰＵＢ選書) ｜ 松尾 豊 ｜ 工学](computer_science/人工知能は人間を超えるか.md)
 
-#### 読んでる
+#### 買った
 
- - [闘うプログラマー［新装版］　ビル・ゲイツの野望を担った男達 eBook： G パスカル ザカリー, 山岡 洋一](https://www.amazon.co.jp/gp/product/B00GSHI04M/ref=oh_aui_d_detailpage_o06_?ie=UTF8&psc=1)
+ - [現場のプロから学ぶ　SEO技術バイブル ｜ 西山 悠太朗, 小林 睦, 丸山 弘詩 ｜ 工学 ｜ Kindleストア ｜ Amazon](https://www.amazon.co.jp/gp/product/B07FMR3GD6/ref=oh_aui_d_detailpage_o03_?ie=UTF8&psc=1)
+ - [データ分析の力　因果関係に迫る思考法 (光文社新書) ｜ 伊藤 公一朗 ｜ 工学 ｜ Kindleストア ｜ Amazon](https://www.amazon.co.jp/gp/product/B071CD9CMP/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)
+ - [基礎からわかるTCP/IP　ネットワークコンピューティング入門　第3版 ｜ 村山公保 ｜ 工学 ｜ Kindleストア ｜ Amazon](https://www.amazon.co.jp/gp/product/B00U7A661U/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1)
 
 ## 開発一般
 
@@ -72,6 +74,13 @@ layout: default
 #### 買った
 
  - [イシューからはじめよ ― 知的生産の「シンプルな本質」 ｜ 安宅和人 ｜ ビジネス教育](https://www.amazon.co.jp/gp/product/B00MTL340G/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)
+ - [カイゼン・ジャーニー たった1人からはじめて、「越境」するチームをつくるまで ｜ 市谷 聡啓, 新井 剛 ｜ プログラミング ｜ Kindleストア ｜ Amazon](https://www.amazon.co.jp/gp/product/B078HZKLMB/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)
+
+## 伝記
+
+#### 読んでる
+
+ - [闘うプログラマー［新装版］　ビル・ゲイツの野望を担った男達 eBook： G パスカル ザカリー, 山岡 洋一](https://www.amazon.co.jp/gp/product/B00GSHI04M/ref=oh_aui_d_detailpage_o06_?ie=UTF8&psc=1)
 
 ## デザイン
 
