@@ -28,7 +28,7 @@ layout: default
 
 **感想書いた**
 
- - [スターティングGo言語 ｜ 松尾愛賀](programming_language/スターティングGo言語.md)
+ - [[Amazon](https://www.amazon.co.jp/gp/product/B01FH3KRTI/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)] [スターティングGo言語 ｜ 松尾愛賀](programming_language/スターティングGo言語.md)
 
 ## Shell
 
@@ -36,15 +36,15 @@ layout: default
 
 **読んだだけ**
 
- - [HTML5&CSS3デザインブック (ステップバイステップ形式でマスターできる), エビスコム](https://www.amazon.co.jp/HTML5-CSS3%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%96%E3%83%83%E3%82%AF-%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%90%E3%82%A4%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E5%BD%A2%E5%BC%8F%E3%81%A7%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%A7%E3%81%8D%E3%82%8B-%E3%82%A8%E3%83%93%E3%82%B9%E3%82%B3%E3%83%A0/dp/4883379647/ref=sr_1_1?ie=UTF8&qid=1528213176&sr=8-1&keywords=html5+css3+%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%96%E3%83%83%E3%82%AF)
+ - [[Amazon](https://www.amazon.co.jp/dp/4883379647/ref=cm_sw_r_cp_ep_dp_W5qGBbHWJAYKN)] HTML5&CSS3デザインブック (ステップバイステップ形式でマスターできる), エビスコム
 
 ## IT基礎
 
 **感想書いた**
 
- - [ビットコインはどのようにして動いているのか？ 数学を使わずに理解するビットコインの動作原理 ｜ 大石哲之](computer_science/ビットコインはどのようにして動いているのか数学を使わずに理解するビットコインの動作原理.md)
- - [Translations – Mastering Bitcoin](computer_science/Translations – Mastering Bitcoin.md)
- - [人工知能は人間を超えるか (角川ＥＰＵＢ選書) ｜ 松尾 豊 ｜ 工学](computer_science/人工知能は人間を超えるか.md)
+ - [[Amazon](https://www.amazon.co.jp/dp/B00IXF2SVS/ref=cm_sw_r_cp_ep_dp_66qGBbEN6V06Y)] [ビットコインはどのようにして動いているのか？ 数学を使わずに理解するビットコインの動作原理 ｜ 大石哲之](computer_science/ビットコインはどのようにして動いているのか数学を使わずに理解するビットコインの動作原理.md)
+ - [[bitcoinbook](https://bitcoinbook.info/translations-of-mastering-bitcoin/)] [Translations – Mastering Bitcoin](computer_science/Translations – Mastering Bitcoin.md)
+ - [[Amazon](https://www.amazon.co.jp/gp/product/B00UAAK07S/ref=oh_aui_d_detailpage_o07_?ie=UTF8&psc=1)] [人工知能は人間を超えるか (角川ＥＰＵＢ選書) ｜ 松尾 豊 ｜ 工学](computer_science/人工知能は人間を超えるか.md)
 
 **買った**
 
