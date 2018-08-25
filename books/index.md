@@ -63,36 +63,36 @@ layout: default
 **読んだだけ**
 
  - [[Amazon](https://www.amazon.co.jp/dp/B00DIM6BMI/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)] SCRUM BOOT CAMP THE BOOK, 西村直人, 永瀬美穂, 吉羽龍太郎, 工学　（借りて読んだ）
- - [[Amazon](https://www.amazon.co.jp/gp/product/B00F4QOMWM/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)] 熊とワルツを　リスクを愉しむプロジェクト管理, トム デマルコ, ティモシー リスター, 伊豆原 弓, ビジネス・経済
+ - [[Amazon](https://www.amazon.co.jp/gp/product/B00F4QOMWM/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)] 熊とワルツを　リスクを愉しむプロジェクト管理, トム デマルコ, ティモシー リスター, 伊豆原 弓, ビジネス・経済    
 
 **買った**
 
- - [イシューからはじめよ ― 知的生産の「シンプルな本質」 ｜ 安宅和人 ｜ ビジネス教育](https://www.amazon.co.jp/gp/product/B00MTL340G/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)
- - [カイゼン・ジャーニー たった1人からはじめて、「越境」するチームをつくるまで ｜ 市谷 聡啓, 新井 剛 ｜ プログラミング ｜ Kindleストア ｜ Amazon](https://www.amazon.co.jp/gp/product/B078HZKLMB/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)
+ - [[Amazon](https://www.amazon.co.jp/gp/product/B00MTL340G/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)] イシューからはじめよ ― 知的生産の「シンプルな本質」 ｜ 安宅和人 ｜ ビジネス教育
+ - [[Amazon](https://www.amazon.co.jp/gp/product/B078HZKLMB/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)] カイゼン・ジャーニー たった1人からはじめて、「越境」するチームをつくるまで ｜ 市谷 聡啓, 新井 剛 ｜ プログラミング
 
 ## 伝記
 
 **読んでる**
 
- - [闘うプログラマー［新装版］　ビル・ゲイツの野望を担った男達 eBook： G パスカル ザカリー, 山岡 洋一](https://www.amazon.co.jp/gp/product/B00GSHI04M/ref=oh_aui_d_detailpage_o06_?ie=UTF8&psc=1)
+ - [[Amazon](https://www.amazon.co.jp/gp/product/B00GSHI04M/ref=oh_aui_d_detailpage_o06_?ie=UTF8&psc=1)] 闘うプログラマー［新装版］　ビル・ゲイツの野望を担った男達 eBook： G パスカル ザカリー, 山岡 洋一
 
 ## デザイン
 
 **読んだだけ**
 
- - [なるほどデザイン eBook： 筒井 美希](https://www.amazon.co.jp/gp/product/B012VJNW6Q/ref=oh_aui_d_detailpage_o03_?ie=UTF8&psc=1)
+ - [[Amazon](https://www.amazon.co.jp/gp/product/B012VJNW6Q/ref=oh_aui_d_detailpage_o03_?ie=UTF8&psc=1)] なるほどデザイン eBook： 筒井 美希
 
 ## 英語
 
 **読んだだけ**
 
- - [mini版 英会話の9割は中学英語で通用する eBook： デイビッド・セイン](https://www.amazon.co.jp/gp/product/B00DJ2MQ4E/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)
+ - [[Amazon](https://www.amazon.co.jp/gp/product/B00DJ2MQ4E/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)] mini版 英会話の9割は中学英語で通用する eBook： デイビッド・セイン
 
 ## その他
 
 **読んだだけ**
 
- - [さあ、才能(じぶん)に目覚めよう 新版 ストレングス・ファインダー2.0, トム・ラス, 古屋博子](https://www.amazon.co.jp/gp/product/4532321433/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
+ - [[Amazon](https://www.amazon.co.jp/gp/product/4532321433/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)] さあ、才能(じぶん)に目覚めよう 新版 ストレングス・ファインダー2.0, トム・ラス, 古屋博子
 
 ## サンプル
 
