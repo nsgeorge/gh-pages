@@ -10,7 +10,7 @@ layout: default
 
 **読んだだけ**
 
- - 改訂新版JavaScript本格入門 ~モダンスタイルによる基礎から現場での応用まで, 山田 祥寛 <[Amazon](https://www.amazon.co.jp/gp/product/477418411X/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)>
+ - [[Amazon](https://www.amazon.co.jp/gp/product/477418411X/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)] 改訂新版JavaScript本格入門 ~モダンスタイルによる基礎から現場での応用まで, 山田 祥寛
  - パーフェクトJavaScript (PERFECT SERIES 4), 井上 誠一郎, 土江 拓郎, 浜辺 将太 <[Amazon](https://www.amazon.co.jp/gp/product/477414813X/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)>
 
 ## Java
