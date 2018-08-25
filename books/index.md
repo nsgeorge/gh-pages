@@ -11,16 +11,16 @@ layout: default
 **読んだだけ**
 
  - [[Amazon](https://www.amazon.co.jp/gp/product/477418411X/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)] 改訂新版JavaScript本格入門 ~モダンスタイルによる基礎から現場での応用まで, 山田 祥寛
- - パーフェクトJavaScript (PERFECT SERIES 4), 井上 誠一郎, 土江 拓郎, 浜辺 将太 <[Amazon](https://www.amazon.co.jp/gp/product/477414813X/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)>
+ - [[Amazon](https://www.amazon.co.jp/gp/product/477414813X/ref=oh_aui_detailpage_o07_s00?ie=UTF8&psc=1)] パーフェクトJavaScript (PERFECT SERIES 4), 井上 誠一郎, 土江 拓郎, 浜辺 将太
 
 ## Java
 
 **読んだだけ**
 
- - [スッキリわかる Java入門 実践編 第2版 (スッキリシリーズ), 中山 清喬](https://www.amazon.co.jp/gp/product/4844336770/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1)
- - [独習Javaサーバサイド編 第2版, 山田 祥寛](https://www.amazon.co.jp/gp/product/4798130494/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
- - [Java本格入門 ～モダンスタイルによる基礎からオブジェクト指向・実用ライブラリまで, 谷本 心, 阪本 雄一郎, 岡田 拓也, 秋葉 誠, 村田 賢一郎, Acroquest Technology株式会社, 工学, Kindleストア](https://www.amazon.co.jp/gp/product/B071D8RYR5/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1)
- - [Spring徹底入門 Spring FrameworkによるJavaアプリケーション開発, 株式会社NTTデータ, コンピュータ・IT](https://www.amazon.co.jp/gp/product/B01IEWNLBU/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)
+ - [[Amazon](https://www.amazon.co.jp/gp/product/4844336770/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1)] スッキリわかる Java入門 実践編 第2版 (スッキリシリーズ), 中山 清喬
+ - [[Amazon](https://www.amazon.co.jp/gp/product/4798130494/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)] 独習Javaサーバサイド編 第2版, 山田 祥寛
+ - [[Amazon](https://www.amazon.co.jp/gp/product/B071D8RYR5/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1)] Java本格入門 ～モダンスタイルによる基礎からオブジェクト指向・実用ライブラリまで, 谷本 心, 阪本 雄一郎, 岡田 拓也, 秋葉 誠, 村田 賢一郎
+ - [[Amazon](https://www.amazon.co.jp/gp/product/B01IEWNLBU/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)] Spring徹底入門 Spring FrameworkによるJavaアプリケーション開発
 
 ## Kotlin
 
