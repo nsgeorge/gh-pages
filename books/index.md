@@ -49,7 +49,7 @@ layout: default
 
 ## 伝記
 
- - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00GSHI04M/ref=oh_aui_d_detailpage_o06_?ie=UTF8&psc=1)] [闘うプログラマー［新装版］　ビル・ゲイツの野望を担った男達 eBook： G パスカル ザカリー, 山岡 洋一](biography/闘うプログラマー 新装版 ビル・ゲイツの野望を担った男達.md)
+ - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00GSHI04M/ref=oh_aui_d_detailpage_o06_?ie=UTF8&psc=1)] [闘うプログラマー［新装版］　ビル・ゲイツの野望を担った男達 eBook： G パスカル ザカリー, 山岡 洋一](biography/闘うプログラマー新装版ビル・ゲイツの野望を担った男達.md)
 
 ## デザイン
 
