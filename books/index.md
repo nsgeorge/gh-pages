@@ -65,14 +65,17 @@ layout: default
  - [[Amazon](https://www.amazon.co.jp/dp/B00DIM6BMI/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)] SCRUM BOOT CAMP THE BOOK, 西村直人, 永瀬美穂, 吉羽龍太郎, 工学　（借りて読んだ）
  - [[Amazon](https://www.amazon.co.jp/gp/product/B00F4QOMWM/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)] 熊とワルツを　リスクを愉しむプロジェクト管理, トム デマルコ, ティモシー リスター, 伊豆原 弓, ビジネス・経済    
 
-**買った**
+**読んでる**
 
  - [[Amazon](https://www.amazon.co.jp/gp/product/B00MTL340G/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)] イシューからはじめよ ― 知的生産の「シンプルな本質」 ｜ 安宅和人 ｜ ビジネス教育
+
+**買った**
+
  - [[Amazon](https://www.amazon.co.jp/gp/product/B078HZKLMB/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)] カイゼン・ジャーニー たった1人からはじめて、「越境」するチームをつくるまで ｜ 市谷 聡啓, 新井 剛 ｜ プログラミング
 
 ## 伝記
 
-**読んでる**
+**読んだ**
 
  - [[Amazon](https://www.amazon.co.jp/gp/product/B00GSHI04M/ref=oh_aui_d_detailpage_o06_?ie=UTF8&psc=1)] 闘うプログラマー［新装版］　ビル・ゲイツの野望を担った男達 eBook： G パスカル ザカリー, 山岡 洋一
 
