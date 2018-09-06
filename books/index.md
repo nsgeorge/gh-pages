@@ -29,7 +29,7 @@ layout: default
  - **Read** [[Amazon](https://www.amazon.co.jp/dp/B00IXF2SVS/ref=cm_sw_r_cp_ep_dp_66qGBbEN6V06Y)] [ビットコインはどのようにして動いているのか？ 数学を使わずに理解するビットコインの動作原理 ｜ 大石哲之](computer_science/ビットコインはどのようにして動いているのか数学を使わずに理解するビットコインの動作原理.md)
  - **Read** [[bitcoinbook](https://bitcoinbook.info/translations-of-mastering-bitcoin/)] [Translations – Mastering Bitcoin](computer_science/Translations – Mastering Bitcoin.md)
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00UAAK07S/ref=oh_aui_d_detailpage_o07_?ie=UTF8&psc=1)] [人工知能は人間を超えるか (角川ＥＰＵＢ選書) ｜ 松尾 豊 ｜ 工学](computer_science/人工知能は人間を超えるか.md)
- - **New** [[Amazon](https://www.amazon.co.jp/gp/product/B07FMR3GD6/ref=oh_aui_d_detailpage_o03_?ie=UTF8&psc=1)] 現場のプロから学ぶ　SEO技術バイブル ｜ 西山 悠太朗, 小林 睦, 丸山 弘詩 ｜ 工学
+ - **Reading** [[Amazon](https://www.amazon.co.jp/gp/product/B07FMR3GD6/ref=oh_aui_d_detailpage_o03_?ie=UTF8&psc=1)] 現場のプロから学ぶ　SEO技術バイブル ｜ 西山 悠太朗, 小林 睦, 丸山 弘詩 ｜ 工学
  - **New** [[Amazon](https://www.amazon.co.jp/gp/product/B071CD9CMP/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)] データ分析の力　因果関係に迫る思考法 (光文社新書) ｜ 伊藤 公一朗 ｜ 工学
  - **New** [[Amazon](https://www.amazon.co.jp/gp/product/B00U7A661U/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1)] 基礎からわかるTCP/IP　ネットワークコンピューティング入門　第3版 ｜ 村山公保 ｜ 工学
 
@@ -44,7 +44,7 @@ layout: default
 
  - **Read** [[Amazon](https://www.amazon.co.jp/dp/B00DIM6BMI/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)] SCRUM BOOT CAMP THE BOOK, 西村直人, 永瀬美穂, 吉羽龍太郎, 工学　（借りて読んだ）
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00F4QOMWM/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)] 熊とワルツを　リスクを愉しむプロジェクト管理, トム デマルコ, ティモシー リスター, 伊豆原 弓, ビジネス・経済    
- - **Reading** [[Amazon](https://www.amazon.co.jp/gp/product/B00MTL340G/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)] [イシューからはじめよ ― 知的生産の「シンプルな本質」 ｜ 安宅和人 ｜ ビジネス教育](project_management/イシューからはじめよ知的生産の「シンプルな本質」.md)
+ - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00MTL340G/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)] [イシューからはじめよ ― 知的生産の「シンプルな本質」 ｜ 安宅和人 ｜ ビジネス教育](project_management/イシューからはじめよ知的生産の「シンプルな本質」.md)
  - **New** [[Amazon](https://www.amazon.co.jp/gp/product/B078HZKLMB/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)] カイゼン・ジャーニー たった1人からはじめて、「越境」するチームをつくるまで ｜ 市谷 聡啓, 新井 剛 ｜ プログラミング
 
 ## 伝記
