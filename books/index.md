@@ -29,10 +29,10 @@ layout: default
  - **Read** [[Amazon](https://www.amazon.co.jp/dp/B00IXF2SVS/ref=cm_sw_r_cp_ep_dp_66qGBbEN6V06Y)] [ビットコインはどのようにして動いているのか？ 数学を使わずに理解するビットコインの動作原理 ｜ 大石哲之](computer_science/ビットコインはどのようにして動いているのか数学を使わずに理解するビットコインの動作原理.md)
  - **Read** [[bitcoinbook](https://bitcoinbook.info/translations-of-mastering-bitcoin/)] [Translations – Mastering Bitcoin](computer_science/Translations – Mastering Bitcoin.md)
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00UAAK07S/ref=oh_aui_d_detailpage_o07_?ie=UTF8&psc=1)] [人工知能は人間を超えるか (角川ＥＰＵＢ選書) ｜ 松尾 豊 ｜ 工学](computer_science/人工知能は人間を超えるか.md)
- - **Reading** [[Amazon](https://www.amazon.co.jp/gp/product/B07FMR3GD6/ref=oh_aui_d_detailpage_o03_?ie=UTF8&psc=1)] [現場のプロから学ぶ　SEO技術バイブル ｜ 西山 悠太朗, 小林 睦, 丸山 弘詩 ｜ 工学](computer_science/現場のプロから学ぶ_SEO技術バイブル.md)
+ - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B07FMR3GD6/ref=oh_aui_d_detailpage_o03_?ie=UTF8&psc=1)] [現場のプロから学ぶ　SEO技術バイブル ｜ 西山 悠太朗, 小林 睦, 丸山 弘詩 ｜ 工学](computer_science/現場のプロから学ぶ_SEO技術バイブル.md)
+ - **Reading** [[Amazon](https://www.amazon.co.jp/gp/product/B00U7A661U/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1)] 基礎からわかるTCP/IP　ネットワークコンピューティング入門　第3版 ｜ 村山公保 ｜ 工学
  - **New** [[Amazon](https://www.amazon.co.jp/gp/product/B071CD9CMP/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)] データ分析の力　因果関係に迫る思考法 (光文社新書) ｜ 伊藤 公一朗 ｜ 工学
- - **New** [[Amazon](https://www.amazon.co.jp/gp/product/B00U7A661U/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1)] 基礎からわかるTCP/IP　ネットワークコンピューティング入門　第3版 ｜ 村山公保 ｜ 工学
-
+ 
 ## 開発一般
 
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B071V7MY82/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)] [プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則 ｜ 上田勲](development/プリンシプル オブ プログラミング 3年目までに身につけたい一生役立つ101の原理原則.md)
