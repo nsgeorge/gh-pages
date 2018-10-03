@@ -84,7 +84,11 @@ SEOの優位性として、
 #### meta要素
 
  - 文字コードを指定する
- - http-equiv="X-UA-Compatible"を指定する（これいらんやろって言ってるひともいるみたい
+ - http-equiv="X-UA-Compatible"を指定する
+   - これいらんやろって言ってるひともいるみたい
+     - [【HTML】metaタグ：『X-UA-Compatible』はよっぽどでなければ設定する必要はないかもしれません。](https://www.creativevillage.ne.jp/2819)
+   - これは、「Internet Explorerでどのバージョンのモードでレンダリングを行うか(ドキュメントモード)を指定することができるプラグマ」らしい
+     - [X-UA-Compatibleについて調べてみた - だれも聞いていないと思って歌え](http://38fanjia.hatenablog.com/entry/2016/05/28/164400)
  - descriptionを記載する
    - これ検索結果のタイトルの下に表示される部分なのでちゃんと書く
    - ただ、内容によってWebページの記事内容が表示される場合もあり
