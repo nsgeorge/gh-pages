@@ -40,7 +40,7 @@ layout: default
  - **Read** [[O'Reilly](https://www.oreilly.co.jp/books/9784873115658/)] リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice), Dustin Boswell, Trevor Foucher, 須藤 功平, 角 征典
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B06W567M44/ref=oh_aui_d_detailpage_o06_?ie=UTF8&psc=1)] 新装版 達人プログラマー 職人から名匠への道, ＡｎｄｒｅｗＨｕｎｔ, ＤａｖｉｄＴｈｏｍａｓ, 村上雅章, 工学
  - **Reading** [[Amazon](https://www.amazon.co.jp/dp/4621303252/ref=cm_sw_r_cp_ep_dp_ZKf8Bb16A5NPF)] [Effective Java 第3版 ｜ Joshua Bloch, 柴田 芳樹](development/Effective_Java_第3版.md)
- - **Reading** [[Amazon](https://www.amazon.co.jp/gp/product/B01AN97W08/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1) レガシーコード改善ガイド ｜ マイケル・C・フェザーズ, 平澤章, 越智典子, 稲葉信之, 田村友彦, 小堀真義
+ - **Reading** [[Amazon](https://www.amazon.co.jp/gp/product/B01AN97W08/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)] [レガシーコード改善ガイド ｜ マイケル・C・フェザーズ, 平澤章, 越智典子, 稲葉信之, 田村友彦, 小堀真義](development/レガシーコード改善ガイド.md)
 
 ## プロジェクトマネジメント
 
