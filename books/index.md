@@ -30,7 +30,7 @@ layout: default
  - **Read** [[bitcoinbook](https://bitcoinbook.info/translations-of-mastering-bitcoin/)] [Translations – Mastering Bitcoin](computer_science/Translations – Mastering Bitcoin.md)
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00UAAK07S/ref=oh_aui_d_detailpage_o07_?ie=UTF8&psc=1)] [人工知能は人間を超えるか (角川ＥＰＵＢ選書) ｜ 松尾 豊 ｜ 工学](computer_science/人工知能は人間を超えるか.md)
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B07FMR3GD6/ref=oh_aui_d_detailpage_o03_?ie=UTF8&psc=1)] [現場のプロから学ぶ　SEO技術バイブル ｜ 西山 悠太朗, 小林 睦, 丸山 弘詩 ｜ 工学](computer_science/現場のプロから学ぶ_SEO技術バイブル.md)
- - **Reading** [[Amazon](https://www.amazon.co.jp/gp/product/B00U7A661U/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1)] 基礎からわかるTCP/IP　ネットワークコンピューティング入門　第3版 ｜ 村山公保 ｜ 工学
+ - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00U7A661U/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1)] 基礎からわかるTCP/IP　ネットワークコンピューティング入門　第3版 ｜ 村山公保 ｜ 工学
  - **New** [[Amazon](https://www.amazon.co.jp/gp/product/B071CD9CMP/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)] データ分析の力　因果関係に迫る思考法 (光文社新書) ｜ 伊藤 公一朗 ｜ 工学
  
 ## 開発一般
@@ -39,6 +39,8 @@ layout: default
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00FR78X64/ref=oh_aui_d_detailpage_o05_?ie=UTF8&psc=1)] [世界でもっとも強力な9のアルゴリズム ｜ ジョン マコーミック, 長尾 高弘 ｜ コンピュータ・IT](development/世界でもっとも強力な9のアルゴリズム.md)
  - **Read** [[O'Reilly](https://www.oreilly.co.jp/books/9784873115658/)] リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice), Dustin Boswell, Trevor Foucher, 須藤 功平, 角 征典
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B06W567M44/ref=oh_aui_d_detailpage_o06_?ie=UTF8&psc=1)] 新装版 達人プログラマー 職人から名匠への道, ＡｎｄｒｅｗＨｕｎｔ, ＤａｖｉｄＴｈｏｍａｓ, 村上雅章, 工学
+ - **Reading** [[Amazon](https://www.amazon.co.jp/dp/4621303252/ref=cm_sw_r_cp_ep_dp_ZKf8Bb16A5NPF)] [Effective Java 第3版 ｜ Joshua Bloch, 柴田 芳樹](development/Effective_Java_第3版.md)
+ - **Reading** [[Amazon](https://www.amazon.co.jp/gp/product/B01AN97W08/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1) レガシーコード改善ガイド ｜ マイケル・C・フェザーズ, 平澤章, 越智典子, 稲葉信之, 田村友彦, 小堀真義
 
 ## プロジェクトマネジメント
 

@@ -3,7 +3,7 @@ layout: default
 description: 現場のプロから学ぶ　SEO技術バイブル
 ---
 
-# [現場のプロから学ぶ　SEO技術バイブル ｜ 西山 悠太朗, 小林 睦, 丸山 弘詩 ｜ 工学](https://www.amazon.co.jp/gp/product/B07FMR3GD6/ref=oh_aui_d_detailpage_o03_?ie=UTF8&psc=1)
+# [現場のプロから学ぶ　SEO技術バイブル](https://www.amazon.co.jp/gp/product/B07FMR3GD6/ref=oh_aui_d_detailpage_o03_?ie=UTF8&psc=1)
 
 ---
 
@@ -198,10 +198,10 @@ Googleでは、検索結果に可能な限り多様なドメインの検索結�
    - これは、外部リンクを貼ってくれる人が色んなバリエーションのURLでリンクを貼ってしまったりすることもあるため
  - 同じ内容のページを複数回クロールしてしまうためクローラビリティが低くなる
  - クロールバジェットももったいない
- 
+
 で、どうすればよいか
 
- - http／https：httpsに寄せる
+ - http／https：httpsに寄せる 
  - wwwの有無：どっちでもOK
  - index.php／index.html／なし：「/」で終わらせる
  - URL末端の「/」の有無：「/」で終わらせる
@@ -218,4 +218,4 @@ Googleでは、検索結果に可能な限り多様なドメインの検索結�
  - 301リダイレクト
  - canonical設定
  
- 
+Googleは「301リダイレクト」を推奨しているので、 
