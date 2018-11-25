@@ -506,11 +506,15 @@ jsで設定する場合は、リダイレクト元となるページのhtmlに�
 
 ここは結構具体的な話が出てて参考になった。URLの命名規則について具体例を使って説明されていた。
 
-| Type      | NG                                          | OK                                   |
-|--         | --                                          |                                    --|
-| Named     | http://xxx.com/15/24/                       | http://xxx.com/tops/tshirt/          |
-| Shorten   | http://xxx.com/clothes-tops/t_shaped_shirt/ | http://xxx.com/tops/tshirt/          |
-| Separated | http://xxx.com/tops/redspringcoat/          | http://xxx.com/tops/red-spring-coat/ |
+ - id等の識別子は使わない
+   - NG: http://xxx.com/15/24/
+   - OK: http://xxx.com/tops/tshirt/
+ - できるだけ短くする
+   - NG: http://xxx.com/clothes-tops/t_shaped_shirt/
+   - OK: http://xxx.com/tops/tshirt/
+ - 長くなる場合は`-`で適切に区切る
+   - NG: http://xxx.com/tops/redspringcoat/
+   - OK: http://xxx.com/tops/red-spring-coat/
 
 区切り文字は、`-`を使うべきとのこと。Googleもハイフンで文字を区切ることを推奨しているみたい。
 
@@ -522,3 +526,12 @@ jsで設定する場合は、リダイレクト元となるページのhtmlに�
 
  - やたら長いURLは見栄えが良くない（不安を煽る）
  - URLには2048文字の上限が設けられているため
+
+## 辿りやすいサイト内部リンク
+
+3つポイントがあるらしい。
+
+ - すべてのページを双方向のリンクで繋げる
+ - 関連するページ（カテゴリ）にリンクをはる
+ - 常にトップページ、最上位カテゴリへのリンクを貼る（よく見かけるやつ）
+
