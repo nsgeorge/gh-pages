@@ -260,7 +260,7 @@ jsで設定する場合は、リダイレクト元となるページのhtmlに�
 ...
   <!-- https://xxxx.comにリダイレクトする場合 -->
   <script type="text/javascript">
-     location.href="https://xxxx.com";
+    location.href="https://xxxx.com";
   </script>
 ...
 </head>
@@ -295,6 +295,64 @@ jsで設定する場合は、リダイレクト元となるページのhtmlに�
 基本的には、以下のどちらかの方法にしないといけない
 
  - 同一URL階層にパラメタを付与した異なるURL
-   - 
+   - 例
+     - http://xxx.com/zzz?page=1
+     - http://xxx.com/zzz?page=2
+     - http://xxx.com/zzz?page=3
  - 異なるURL階層で管理
+   - 例
+     - http://xxx.com/zzz/1/
+     - http://xxx.com/zzz/2/
+     - http://xxx.com/zzz/3/
  
+ まぁ両方よく見かけるやつ。
+ 
+#### rel="prev" /rel="next"の設置
+
+これ知らなかった。ページの前後関係をhtmlで表現できるらしい。
+
+```html
+<head>
+...
+  <!-- prev: 最初のページ以外に記載 -->
+  <link rel="prev" href="前ページURL">
+  <!-- next: 最後のページ以外に記載 -->
+  <link rel="next" href="次ページURL">
+...
+</head>
+```
+    
+#### title/descriptionのユニーク化
+
+ほんとにバラバラにするのはむずいので、
+
+ - title: `XXX一覧 Nページ目`
+ - description: `XXX一覧のNページ目の紹介ページです。`
+
+という感じでページを含めてあげるのが良いみたい。
+
+ちなみに検索エンジンは1ページ目を検索結果に表示するようなロジックが入っているらしい（2018/08現在）
+
+#### 旧Search Consoleでのパラメタ設定
+
+パラメタでのページネーションの制御の場合は、旧Search Consoleでパラメタ名を登録してあげると良いみたい。
+
+`http://xxx.com/zzz?page=1`の場合は、`page`をパラメタとして登録してあげるということ。
+
+---
+
+**エラーに対する対応の話**
+
+## エラー対応
+
+
+
+
+
+
+
+
+
+
+
+
