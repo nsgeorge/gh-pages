@@ -31,7 +31,7 @@ layout: default
  - **Read** [[bitcoinbook](https://bitcoinbook.info/translations-of-mastering-bitcoin/)] [Translations – Mastering Bitcoin](computer_science/Translations – Mastering Bitcoin.md)
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00UAAK07S/ref=oh_aui_d_detailpage_o07_?ie=UTF8&psc=1)] [人工知能は人間を超えるか (角川ＥＰＵＢ選書) ｜ 松尾 豊 ｜ 工学](computer_science/人工知能は人間を超えるか.md)
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B07FMR3GD6/ref=oh_aui_d_detailpage_o03_?ie=UTF8&psc=1)] [現場のプロから学ぶ　SEO技術バイブル ｜ 西山 悠太朗, 小林 睦, 丸山 弘詩 ｜ 工学](computer_science/現場のプロから学ぶ_SEO技術バイブル.md)
- - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00U7A661U/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1)] 基礎からわかるTCP/IP　ネットワークコンピューティング入門　第3版 ｜ 村山公保 ｜ 工学
+ - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00U7A661U/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1)] [基礎からわかるTCP/IP　ネットワークコンピューティング入門　第3版 ｜ 村山公保 ｜ 工学](computer_science/基礎からわかるTCP／IP_ネットワークコンピューティング入門_第3版.md)
  - **New** [[Amazon](https://www.amazon.co.jp/gp/product/B071CD9CMP/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)] データ分析の力　因果関係に迫る思考法 (光文社新書) ｜ 伊藤 公一朗 ｜ 工学
  
 ## 開発一般
