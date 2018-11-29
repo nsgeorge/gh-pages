@@ -18,7 +18,7 @@ https://nsgeorge.github.io/gh-pages/
 #### Webで管理する
 
  1. https://docs.google.com/drawings/
- 1. 図形を書く
+ 1. 図形を描く
  1. GoogleDrive上に保存する
  1. drawings上で`ファイル > ウェブに公開 > 埋め込む > サイズ大`でリンクを生成する
  1. md上で参照する
