@@ -882,7 +882,9 @@ htmlの構造に加えて、その意味を明示できる記述方法がhtml5�
 
 **商品・口コミ情報の例**
 
-<img src="https://i.imgur.com/hUiKSDd.png" width="60%" height="60%" style="border:0;box-shadow:0 0 0 0" alt="Semantic_Markup_sample_review">
+<img src="https://i.imgur.com/FuB1ZBV.png" width="60%" height="60%" style="border:0;box-shadow:0 0 0 0" alt="Semantic_Markup_sample_review">
+
+
 
 ### 構造化マークアップの仕様
 
