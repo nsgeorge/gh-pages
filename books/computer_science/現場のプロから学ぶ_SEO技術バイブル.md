@@ -908,7 +908,11 @@ htmlの構造に加えて、その意味を明示できる記述方法がhtml5�
 
 **企業情報の例**
 
-<img src="https://i.imgur.com/lkPIOeP.png" width="60%" height="60%" style="border:0;box-shadow:0 0 0 0" alt="Sample1">
+<img src="https://i.imgur.com/lkPIOeP.png" width="60%" height="60%" style="border:0;box-shadow:0 0 0 0" alt="Semantic_Markup_sample_organization">
+
+**商品・口コミ情報の例**
+
+<img src="https://i.imgur.com/EGH8WIR.png" width="60%" height="60%" style="border:0;box-shadow:0 0 0 0" alt="Semantic_Markup_sample_review">
 
 
 これらの構造化マークアップは
