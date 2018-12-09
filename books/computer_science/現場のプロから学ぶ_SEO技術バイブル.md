@@ -1007,8 +1007,11 @@ jsファイルの読み込みでできることは以下の2つ
      - 複数の場合はHTML記述順に従って実行 
 
 
+#### レンダリング処理の高速化（画像ファイル編）
 
+画像ファイルダウンロード前に画像サイズを指定する（CSSなどで）
 
+つまり、width, heightを指定する。
 
 
  
@@ -1068,7 +1071,7 @@ HTTP2を使うには、サーバー側でソフトウェアの導入、設定が
 
 これはCDNを利用して地理的に近いサーバーにファイルをキャッシュさせるのが有効。
 
-CDNの種類をいくつか
+有名なCDNをいくつか
 
 > Cloudflare - Webパフォーマンスとセキュリティを追求する企業 ｜ Cloudflare  
 > https://www.cloudflare.com/ja-jp/
@@ -1083,8 +1086,27 @@ CDNの種類をいくつか
 > https://www.fastly.com/
 
 
+### キャッシュ活用などの高速化手法
 
+`Resources Hints`と呼ばれる方法があり、以下の4つの機能がある。
 
+ - dns-prefetch（DNSの事前ルックアップ）
+   - HTMLの読み込みと同時に外部ドメインをバックグラウンドでDNS読み込みする
+   - `<link rel="dns-prefetch" href="xxx">`をheadに記述する
+   - 上で記述されたドメインはバックグラウンドでIPが取得される
+   - 以降、DNSを介さずに直接IPで通信する
+   - 特に外部ドメインのリソースが多いときに有効
+   - デメリットがほぼないので積極的に活用したい
+ - preconnect（TCPの事前接続）
+   - HTMLの読み込みと同時に外部ドメインとのTCPコネクションをバックグラウンドで確立する
+   - `<link rel="preconnect" href="xxx">`をheadに記述する
+ - prefetch（リソースの事前DL）
+   - 画像やjsなどを読み込み前に事前取得させられる
+   - `<link rel="prefetch" href="xxx.jpeg" as="image">`をheadに記述する
+ - prerender（次ページの事前レンダリング）
+   - 次ページのリソースを取得してレンダリングまで実行する
+   - `<link rel="prerender" href="/next.html">`をheadに記述する
+   - 1ページに指定できる`prerender`は1ページのみ
 
 
 
