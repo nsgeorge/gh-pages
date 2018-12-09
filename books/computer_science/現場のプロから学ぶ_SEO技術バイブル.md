@@ -906,6 +906,76 @@ htmlの構造に加えて、その意味を明示できる記述方法がhtml5�
  - サイト内検索
    - スニペットに自サイトの検索フォームが表示される
 
+**企業情報の例**
+
+<img src="https://i.imgur.com/lkPIOeP.png" width="60%" height="60%" style="border:0;box-shadow:0 0 0 0" alt="Sample1">
+
+
+これらの構造化マークアップは
+
+> SearchAction - schema.org  
+> https://schema.org/SearchAction
+
+にまとめられていて他にもたくさん種類がある。詳細は本の表が分かりやすい。
+
+### 構造化マークアップ支援ツール
+
+> Structured Data Markup Helper  
+> https://www.google.com/webmasters/markup-helper/u/0/?hl=en
+
+これでJSON-LD形式のマークアップを作成できる。
+
+また、作成したマークアップは
+
+> 構造化データ テストツール  
+> https://search.google.com/structured-data/testing-tool/u/0/?hl=ja
+
+でテストできる。
+
+さらに、旧Search Console「構造化データ」画面でエラーが出てないか確認することもできる。
+
+
+---
+
+# サイトの高速化
+
+---
+
+読み込みに5秒かかると90%のユーザーが離脱するという報告があるらしい
+
+> Bottom Line Loading Time - Blog
+> https://blog.kissmetrics.com/wp-content/uploads/2011/04/loading-time.pdf
+
+その結果、表示が1秒遅れるごとに顧客満足度は16%落ち、44%が友人にオンライン上で悪い体験を共有するそう。
+
+## 高速化に寄与する処理
+
+以下の3つがある
+
+ - （ブラウザの）レンダリング処理
+ - ネットワーク処理
+ - サーバー処理
+ 
+### ネットワーク処理を高速化する方法
+
+ネットワーク処理の時間は以下の掛け算で決まる
+
+ - 通信量
+ - 通信回数
+ - 通信距離
+ 
+#### 通信量を減らす
+
+Webでの通信では、一般的にテキストファイルと画像ファイルが大半で、それぞれ
+
+ - テキストファイル：miniy圧縮
+   - ※テキストファイルは、html, js, cssすべて含む
+ - 画像ファイル：gzip圧縮 
+   - さらに、画像形式自体を圧縮率の高いフォーマットに変更するのもあり
+
+で通信量を削減できる。
+
+
 
 
 
