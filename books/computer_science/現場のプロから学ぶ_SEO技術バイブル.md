@@ -1088,6 +1088,8 @@ HTTP2を使うには、サーバー側でソフトウェアの導入、設定が
 
 ### キャッシュ活用などの高速化手法
 
+#### Resources Hintsを利用する
+
 `Resources Hints`と呼ばれる方法があり、以下の4つの機能がある。
 
  - dns-prefetch（DNSの事前ルックアップ）
@@ -1108,5 +1110,37 @@ HTTP2を使うには、サーバー側でソフトウェアの導入、設定が
    - `<link rel="prerender" href="/next.html">`をheadに記述する
    - 1ページに指定できる`prerender`は1ページのみ
 
+#### キャッシュを利用する
+
+キャッシュできる箇所は以下の2箇所
+
+ - ブラウザキャッシュ
+   - `.htaccess`でファイル形式ごとにキャッシュ保持期間を設定する
+ - サーバーキャッシュ
+   - サーバー側でのキャッシュ実装で対応
+   - DBのデータとか外部リソース類など
+ 
+#### PageSpeed Moduleの導入
+
+Googleが提供している`PageSpeed Module`を使うと簡単にまとめて高速化できるらしい。
+
+Apache, Nginx向けが提供されている。
+
+> PageSpeed Module  ｜  Google Developers  
+> https://developers.google.com/speed/pagespeed/module/?hl=JA
+
+### 表示速度の測定ツール
+
+ - Lighthouse
+ - PageSpeed Insights
+
+### サーバー処理の高速化
+
+リソースサーバーとロジックを持つサーバーを分離したり、台数増やしたりスペックアップしたりなどなど
 
 
+---
+
+# HTTPS化／モバイル対応／AMP対応
+
+---
