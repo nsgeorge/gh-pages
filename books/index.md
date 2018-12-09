@@ -38,7 +38,7 @@ layout: default
 
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B071V7MY82/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)] [プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則 ｜ 上田勲](development/プリンシプル オブ プログラミング 3年目までに身につけたい一生役立つ101の原理原則.md)
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00FR78X64/ref=oh_aui_d_detailpage_o05_?ie=UTF8&psc=1)] [世界でもっとも強力な9のアルゴリズム ｜ ジョン マコーミック, 長尾 高弘 ｜ コンピュータ・IT](development/世界でもっとも強力な9のアルゴリズム.md)
- - **Read** [[O'Reilly](https://www.oreilly.co.jp/books/9784873115658/)] リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice), Dustin Boswell, Trevor Foucher, 須藤 功平, 角 征典
+ - **Read** [[O'Reilly](https://www.oreilly.co.jp/books/9784873115658/)] [リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック](development/リーダブルコード_より良いコードを書くためのシンプルで実践的なテクニック.md)
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B06W567M44/ref=oh_aui_d_detailpage_o06_?ie=UTF8&psc=1)] 新装版 達人プログラマー 職人から名匠への道, ＡｎｄｒｅｗＨｕｎｔ, ＤａｖｉｄＴｈｏｍａｓ, 村上雅章, 工学
  - **Reading** [[Amazon](https://www.amazon.co.jp/gp/product/B01AN97W08/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)] (準備中) [レガシーコード改善ガイド ｜ マイケル・C・フェザーズ, 平澤章, 越智典子, 稲葉信之, 田村友彦, 小堀真義](development/レガシーコード改善ガイド.md)
 
