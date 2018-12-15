@@ -1218,6 +1218,16 @@ https化することで安全な通信が行える上に検索のランキング
  - トップニュースエリアへの表示
  - AMPカルーセルへの表示
 
+[Imgur](https://i.imgur.com/ZC0e0ur.png)
+
+**トップニュースエリアの例**
+
+<img src="https://i.imgur.com/9OjLyoE.png" width="60%" height="60%" style="border:0;box-shadow:0 0 0 0" alt="Amp_sample_top_news">
+
+**AMPカルーセルの例**
+
+<img src="https://i.imgur.com/tiBxrhk.png" width="60%" height="60%" style="border:0;box-shadow:0 0 0 0" alt="Amp_sample_amp_carousel">
+
 ### 実装方法
 
 `AMP HTML`仕様を守ったHTMLを作る
