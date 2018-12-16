@@ -1472,8 +1472,24 @@ QDF（Query Deserves Freshness）アルゴリズムとは、ホットなワー�
 
 2017/04現在、Google検索結果において、ニュースの記事には`XXによるファクチェック：false`等が表示されるようになっている。
 
-<img src="https://i.imgur.com/uGMn5Rn.png" width="60%" height="60%" style="border:0;box-shadow:0 0 0 0" alt="Factcheck_news">
+<img src="https://i.imgur.com/uGMn5Rn.png" width="80%" height="80%" style="border:0;box-shadow:0 0 0 0" alt="Factcheck_news">
 
 こんな感じのやつ。あんま見たこと無いなぁ・・・。
 
+### コンテンツのデザイン
+
+コンテンツのデザインのプラクティスがまとめられていた。例えば
+
+ - line-heightは1.5が良い
+ - font-sizeは16pxが良い
+ - 余白があったほうが良い
+ - 色のルールを統一したほうが良い
+
+みたいなやつ。詳細は本を参照。
+
+---
+
+# リンクビルディング・サイテーション
+
+---
 
