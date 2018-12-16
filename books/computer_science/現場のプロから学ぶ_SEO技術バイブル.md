@@ -1220,11 +1220,11 @@ https化することで安全な通信が行える上に検索のランキング
 
 **トップニュースエリアの例**
 
-<img src="https://i.imgur.com/9OjLyoE.png" width="60%" height="60%" style="border:0;box-shadow:0 0 0 0" alt="Amp_sample_top_news">
+<img src="https://i.imgur.com/9OjLyoE.png" width="40%" height="40%" style="border:0;box-shadow:0 0 0 0" alt="Amp_sample_top_news">
 
 **AMPカルーセルの例**
 
-<img src="https://i.imgur.com/tiBxrhk.png" width="60%" height="60%" style="border:0;box-shadow:0 0 0 0" alt="Amp_sample_amp_carousel">
+<img src="https://i.imgur.com/tiBxrhk.png" width="40%" height="40%" style="border:0;box-shadow:0 0 0 0" alt="Amp_sample_amp_carousel">
 
 ### 実装方法
 
@@ -1296,7 +1296,9 @@ Googleは検索クエリからユーザーのニーズを推測してるらし�
  - モバイルページを考慮してない操作性（あるいは不具合）
  - エラーページがデフォルトの404エラーのまま
 
-### 検索クエリとユーザーニーズ
+### 検索クエリ
+
+#### ユーザーニーズ
 
 ユーザーの意図に合わせて検索結果を調整するアルゴリズムをQDD（Query Deserves Diversity）と呼ぶらしい。
 
@@ -1318,7 +1320,7 @@ SMX West 2011で、GoogleはAdWordsのキーワードツールセッションで
 > Google 検索の仕組み ｜ 便利な検索サービス  
 > https://www.google.com/intl/ja/search/howsearchworks/responses/#?modal_active=none
 
-### 検索クエリの分類
+#### 検索クエリの分類
 
 検索エンジンは、入力されたクエリを以下の4分類で解釈するらしい。
 
@@ -1356,7 +1358,7 @@ SMX West 2011で、GoogleはAdWordsのキーワードツールセッションで
    - メインカラムの検索結果：サイトが列挙される
    - 右カラム：Googleショッピングなどのショッピング情報が表示される
 
-### 市場調査によるニーズと規模の把握
+#### 市場調査によるニーズと規模の把握
 
 ユーザーのニーズに合わせたコンテンツを費用対効果を最大にして作るためには
 
@@ -1391,8 +1393,87 @@ SMX West 2011で、GoogleはAdWordsのキーワードツールセッションで
 **外部要素**
 
  - 被リンク数
+   - ツールで調べられるらしい
  - 被リンクドメイン数
+   - ツールで調べられるらしい
  - ドメインオーソリティー
+   - ツールで調べられるらしい
  - ページオーソリティ
+   - ツールで調べられるらしい
  - ソーシャルアカウントの運用状況
+
+### コンテンツの作成
+
+#### シーズナルコンテンツのURL運用のベストプラクティス
+
+シーズナルコンテンツとは、期間限定のコンテンツのこと。
+たとえば、ハロフィーンセールとかとういうやつ。
+こういうのがあった場合は、「URL永続化の観点」から、URLできるだけ変えないよう運用したほうが良い。
+URLがどのくらいの間安定してユーザーにコンテンツを提供しているかの時間軸も評価されるので、
+URLに年が入ってしまうとせっかくのSEO対策が無駄になってしまう。
+
+ので、最新のページには年を入れず、年が変わるごとに年をつけたURLに変更する方法があるみたい。
+
+> Practically dealing with recurring/updated items "When people search for our ...  
+> https://plus.google.com/+JohnMueller/posts/WyAoPsh4GNW
+
+#### コンテンツの鮮度
+
+鮮度が重要視されるキーワードが存在し、QDFアルゴリズムという仕組みが導入されてる。
+
+> QDFとは ｜ SEO用語集：意味/解説/SEO効果など ［SEO HACKS］  
+> https://www.seohacks.net/basic/terms/qdf/
+
+QDF（Query Deserves Freshness）アルゴリズムとは、ホットなワードを一時的に高く評価して検索結果の順位をあげるアルゴリズムのこと。
+検索ボリュームが瞬間風速的に増加したキーワードに適用される。
+
+以下のようなケース。
+
+ - 複数のニュースサイトやブログで取り上げられている記事に関連するキーワード
+ - SNSで頻繁に投稿されているキーワードや記事に関連するキーワード
+ - 急激に検索ボリュームが情報しているキーワード
+
+このため、最新の情報を取り扱うサイトの場合はQDFアルゴリズムを意識したコンテンツを作成したほうが良い。
+
+※フレッシュネスアルゴリズムというのものあり、これは話題性に関係なく、記載されている情報が他のページと比べて新鮮である場合に高く評価するアルゴリズム。
+
+#### コンテンツの独自性・正確性
+
+**独自性**
+
+他にはない独自情報は高く評価される。
+
+このため、口コミサイトは相性がよく、ユーザーからのクチコミ情報は、独自情報として高く評価される。
+
+他にはない独自情報を載せれる場合は載せたほうが良い。
+
+**正確性**
+
+情報に責任を持つ上で、以下を守るようにする
+
+ - 数字やデータの出展をリンクとして載せる
+ - 情報ソースを引用してよい情報源か公開前に確認する
+ - 情報ソース、出展は個人ブログやWebサイトではなく公式情報を用いる
+ - 図や画像は極力オリジナルのものを使用する
+ - 情報にアップデートや変更があった場合は早めに記事を修正する
+
+**ファクトチェック**
+
+公開された情報の真偽を第三者機関がチェックする行為。
+
+> FactCheck.org - A Project of The Annenberg Public Policy Center  
+> https://www.factcheck.org/
+
+> Fact-checking U.S. politics ｜ PolitiFact  
+> https://www.politifact.com/
+
+> GoHoo ｜ マスコミ誤報検証・報道被害救済サイト  
+> http://gohoo.org/
+
+2017/04現在、Google検索結果において、ニュースの記事には`XXによるファクチェック：false`等が表示されるようになっている。
+
+<img src="https://i.imgur.com/uGMn5Rn.png" width="60%" height="60%" style="border:0;box-shadow:0 0 0 0" alt="Factcheck_news">
+
+こんな感じのやつ。あんま見たこと無いなぁ・・・。
+
 
