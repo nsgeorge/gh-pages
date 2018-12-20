@@ -40,14 +40,14 @@ layout: default
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00FR78X64/ref=oh_aui_d_detailpage_o05_?ie=UTF8&psc=1)] [世界でもっとも強力な9のアルゴリズム ｜ ジョン マコーミック, 長尾 高弘 ｜ コンピュータ・IT](development/世界でもっとも強力な9のアルゴリズム.md)
  - **Read** [[O'Reilly](https://www.oreilly.co.jp/books/9784873115658/)] [リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック](development/リーダブルコード_より良いコードを書くためのシンプルで実践的なテクニック.md)
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B06W567M44/ref=oh_aui_d_detailpage_o06_?ie=UTF8&psc=1)] 新装版 達人プログラマー 職人から名匠への道, ＡｎｄｒｅｗＨｕｎｔ, ＤａｖｉｄＴｈｏｍａｓ, 村上雅章, 工学
- - **Reading** [[Amazon](https://www.amazon.co.jp/gp/product/B01AN97W08/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)] (準備中) [レガシーコード改善ガイド ｜ マイケル・C・フェザーズ, 平澤章, 越智典子, 稲葉信之, 田村友彦, 小堀真義](development/レガシーコード改善ガイド.md)
+ - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B01AN97W08/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)] (準備中) [レガシーコード改善ガイド ｜ マイケル・C・フェザーズ, 平澤章, 越智典子, 稲葉信之, 田村友彦, 小堀真義](development/レガシーコード改善ガイド.md)
 
 ## プロジェクトマネジメント
 
  - **Read** [[Amazon](https://www.amazon.co.jp/dp/B00DIM6BMI/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)] SCRUM BOOT CAMP THE BOOK, 西村直人, 永瀬美穂, 吉羽龍太郎, 工学　（借りて読んだ）
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00F4QOMWM/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)] 熊とワルツを　リスクを愉しむプロジェクト管理, トム デマルコ, ティモシー リスター, 伊豆原 弓, ビジネス・経済    
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00MTL340G/ref=oh_aui_d_detailpage_o02_?ie=UTF8&psc=1)] [イシューからはじめよ ― 知的生産の「シンプルな本質」 ｜ 安宅和人 ｜ ビジネス教育](project_management/イシューからはじめよ知的生産の「シンプルな本質」.md)
- - **New** [[Amazon](https://www.amazon.co.jp/gp/product/B078HZKLMB/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)] カイゼン・ジャーニー たった1人からはじめて、「越境」するチームをつくるまで ｜ 市谷 聡啓, 新井 剛 ｜ プログラミング
+ - **Reading** [[Amazon](https://www.amazon.co.jp/gp/product/B078HZKLMB/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)] (準備中) [カイゼン・ジャーニー たった1人からはじめて、「越境」するチームをつくるまで ｜ 市谷 聡啓, 新井 剛 ｜ プログラミング](project_management/カイゼン・ジャーニー たった1人からはじめて、「越境」するチームをつくるまで.md)
 
 ## 伝記
 
