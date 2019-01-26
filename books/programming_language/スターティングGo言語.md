@@ -3,7 +3,7 @@ layout: default
 description: スターティングGo言語
 ---
 
-# [スターティングGo言語](https://www.amazon.co.jp/gp/product/B01FH3KRTI/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1)
+# [スターティングGo言語](https://www.amazon.co.jp/gp/product/B01FH3KRTI)
 
  - Goの入門書として購入。基本的には分かりやすい内容
  - 後半の最後らへんに基本パッケージの使い方や詳細の仕組みについての説明があるがそこがあまり良く分からなかった（gob, signal周り）

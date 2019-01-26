@@ -3,7 +3,7 @@ layout: default
 description: 現場のプロから学ぶ　SEO技術バイブル
 ---
 
-# [現場のプロから学ぶ　SEO技術バイブル](https://www.amazon.co.jp/gp/product/B07FMR3GD6/ref=oh_aui_d_detailpage_o03_?ie=UTF8&psc=1)
+# [現場のプロから学ぶ　SEO技術バイブル](https://www.amazon.co.jp/gp/product/B07FMR3GD6)
 
 ---
 
