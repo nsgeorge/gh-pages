@@ -52,12 +52,14 @@ layout: default
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00F4QOMWM)] 熊とワルツを　リスクを愉しむプロジェクト管理, トム デマルコ, ティモシー リスター, 伊豆原 弓, ビジネス・経済    
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00MTL340G)] [イシューからはじめよ ― 知的生産の「シンプルな本質」 ｜ 安宅和人 ｜ ビジネス教育](project_management/イシューからはじめよ知的生産の「シンプルな本質」.md)
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B078HZKLMB)] (準備中) [カイゼン・ジャーニー たった1人からはじめて、「越境」するチームをつくるまで ｜ 市谷 聡啓, 新井 剛 ｜ プログラミング](project_management/カイゼン・ジャーニー たった1人からはじめて、「越境」するチームをつくるまで.md)
- - **Reading** [[O'Reilly](https://www.oreilly.co.jp/books/9784873116303/)] [Team Geek ――Googleのギークたちはいかにしてチームを作るのか](project_management/Team Geek Googleのギークたちはいかにしてチームを作るのか.md)
+ - **Read** [[O'Reilly](https://www.oreilly.co.jp/books/9784873116303/)] [Team Geek ――Googleのギークたちはいかにしてチームを作るのか](project_management/Team Geek Googleのギークたちはいかにしてチームを作るのか.md)
+ - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00OJVMK5O)] (準備中) [How Google Works ｜ エリック・シュミット, ジョナサン・ローゼンバーグ, アラン・イーグル, ラリー・ペイジ](project_management/How_Google_Works.md)
 
 ## 伝記
 
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00GSHI04M)] [闘うプログラマー［新装版］　ビル・ゲイツの野望を担った男達 eBook： G パスカル ザカリー, 山岡 洋一](biography/闘うプログラマー新装版ビル・ゲイツの野望を担った男達.md)
- - **New** [[Amazon](https://www.amazon.co.jp/gp/product/B00RX1951E)] [ジョナサン・アイブ　偉大な製品を生み出すアップルの天才デザイナー ｜ リーアンダー ケイニ―, 関 美和, 林 信行（序文）](biography/ジョナサン・アイブ_偉大な製品を生み出すアップルの天才デザイナー.md)
+ - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00RX1951E)] [ジョナサン・アイブ　偉大な製品を生み出すアップルの天才デザイナー ｜ リーアンダー ケイニ―, 関 美和, 林 信行（序文）](biography/ジョナサン・アイブ_偉大な製品を生み出すアップルの天才デザイナー.md)
+ - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B07K76331B)]  (準備中) [世界を変えた地図グーグルマップ誕生の軌跡 NEVER LOST AGAIN グーグルマップ誕生 (T's BUSINESS DESIGN) ｜ ビル・キルデイ](biography/世界を変えた地図グーグルマップ誕生の軌跡_NEVER_LOST_AGAIN_グーグルマップ誕生.md)
 
 ## デザイン
 
