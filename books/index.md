@@ -43,8 +43,9 @@ layout: default
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B071V7MY82)] [プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則 ｜ 上田勲](development/プリンシプル オブ プログラミング 3年目までに身につけたい一生役立つ101の原理原則.md)
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00FR78X64)] [世界でもっとも強力な9のアルゴリズム ｜ ジョン マコーミック, 長尾 高弘 ｜ コンピュータ・IT](development/世界でもっとも強力な9のアルゴリズム.md)
  - **Read** [[O'Reilly](https://www.oreilly.co.jp/books/9784873115658/)] [リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック](development/リーダブルコード_より良いコードを書くためのシンプルで実践的なテクニック.md)
- - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B06W567M44)] (準備中) 新装版 達人プログラマー 職人から名匠への道, ＡｎｄｒｅｗＨｕｎｔ, ＤａｖｉｄＴｈｏｍａｓ, 村上雅章, 工学
+ - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B06W567M44)] (準備中) [新装版 達人プログラマー 職人から名匠への道, ＡｎｄｒｅｗＨｕｎｔ, ＤａｖｉｄＴｈｏｍａｓ, 村上雅章, 工学](development/新装版_達人プログラマー_職人から名匠への道.md)
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B01AN97W08)] (準備中) [レガシーコード改善ガイド ｜ マイケル・C・フェザーズ, 平澤章, 越智典子, 稲葉信之, 田村友彦, 小堀真義](development/レガシーコード改善ガイド.md)
+ - **New** [[Amazon](https://www.amazon.co.jp/gp/product/B01IGW5MG0)] 新装版　リファクタリング　既存のコードを安全に改善する ｜ ＭａｒｔｉｎＦｏｗｌｅｒ, 児玉公信, 友野晶夫, 平澤章, 梅澤真史
 
 ## プロジェクトマネジメント
 
@@ -72,6 +73,11 @@ layout: default
 ## その他
 
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/4532321433)] さあ、才能(じぶん)に目覚めよう 新版 ストレングス・ファインダー2.0, トム・ラス, 古屋博子
+ - **New** [[Amazon](https://www.amazon.co.jp/gp/product/B00H7RACY8)] 嫌われる勇気 eBook： 岸見 一郎, 古賀 史健
+ - **Reading** [[Amazon](https://www.amazon.co.jp/gp/product/B009RO867O)] 論点思考 ｜ 内田 和成 ｜ 実践経営・リーダーシップ
+ - **New** [[Amazon](https://www.amazon.co.jp/gp/product/B00H8LHYEE)] 知ってそうで知らなかった ほんとうの株のしくみ (PHP文庫) ｜ 山口 揚平 ｜ ビジネス・経済
+ - **New** [[Amazon](https://www.amazon.co.jp/gp/product/B00YGIKEI0)] ソラリス (ハヤカワ文庫SF) ｜ スタニスワフ レム, 沼野 充義
+ - **New** [[Amazon](https://www.amazon.co.jp/gp/product/B00G5IQOGK)] 宇宙の扉をノックする eBook： リサ・ランドール, ムコウヤマ シンジ, シオバラ　ミチオ, 向山 信治, 塩原 通緒
 
 ## サンプル
 
