@@ -43,7 +43,7 @@ layout: default
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B071V7MY82)] [プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則 ｜ 上田勲](development/プリンシプル オブ プログラミング 3年目までに身につけたい一生役立つ101の原理原則.md)
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00FR78X64)] [世界でもっとも強力な9のアルゴリズム ｜ ジョン マコーミック, 長尾 高弘 ｜ コンピュータ・IT](development/世界でもっとも強力な9のアルゴリズム.md)
  - **Read** [[O'Reilly](https://www.oreilly.co.jp/books/9784873115658/)] [リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック](development/リーダブルコード_より良いコードを書くためのシンプルで実践的なテクニック.md)
- - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B06W567M44)] 新装版 達人プログラマー 職人から名匠への道, ＡｎｄｒｅｗＨｕｎｔ, ＤａｖｉｄＴｈｏｍａｓ, 村上雅章, 工学
+ - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B06W567M44)] (準備中) 新装版 達人プログラマー 職人から名匠への道, ＡｎｄｒｅｗＨｕｎｔ, ＤａｖｉｄＴｈｏｍａｓ, 村上雅章, 工学
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B01AN97W08)] (準備中) [レガシーコード改善ガイド ｜ マイケル・C・フェザーズ, 平澤章, 越智典子, 稲葉信之, 田村友彦, 小堀真義](development/レガシーコード改善ガイド.md)
 
 ## プロジェクトマネジメント
@@ -52,7 +52,7 @@ layout: default
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00F4QOMWM)] 熊とワルツを　リスクを愉しむプロジェクト管理, トム デマルコ, ティモシー リスター, 伊豆原 弓, ビジネス・経済    
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00MTL340G)] [イシューからはじめよ ― 知的生産の「シンプルな本質」 ｜ 安宅和人 ｜ ビジネス教育](project_management/イシューからはじめよ知的生産の「シンプルな本質」.md)
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B078HZKLMB)] (準備中) [カイゼン・ジャーニー たった1人からはじめて、「越境」するチームをつくるまで ｜ 市谷 聡啓, 新井 剛 ｜ プログラミング](project_management/カイゼン・ジャーニー たった1人からはじめて、「越境」するチームをつくるまで.md)
- - **Read** [[O'Reilly](https://www.oreilly.co.jp/books/9784873116303/)] [Team Geek ――Googleのギークたちはいかにしてチームを作るのか](project_management/Team Geek Googleのギークたちはいかにしてチームを作るのか.md)
+ - **Read** [[O'Reilly](https://www.oreilly.co.jp/books/9784873116303/)] (準備中) [Team Geek ――Googleのギークたちはいかにしてチームを作るのか](project_management/Team Geek Googleのギークたちはいかにしてチームを作るのか.md)
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00OJVMK5O)] (準備中) [How Google Works ｜ エリック・シュミット, ジョナサン・ローゼンバーグ, アラン・イーグル, ラリー・ペイジ](project_management/How_Google_Works.md)
 
 ## 伝記
