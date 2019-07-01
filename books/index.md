@@ -58,9 +58,9 @@ layout: default
 
 ## 伝記
 
- - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00GSHI04M)] [闘うプログラマー［新装版］　ビル・ゲイツの野望を担った男達 eBook： G パスカル ザカリー, 山岡 洋一](biography/闘うプログラマー新装版ビル・ゲイツの野望を担った男達.md)
- - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00RX1951E)] [ジョナサン・アイブ　偉大な製品を生み出すアップルの天才デザイナー ｜ リーアンダー ケイニ―, 関 美和, 林 信行（序文）](biography/ジョナサン・アイブ_偉大な製品を生み出すアップルの天才デザイナー.md)
- - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B07K76331B)]  (準備中) [世界を変えた地図グーグルマップ誕生の軌跡 NEVER LOST AGAIN グーグルマップ誕生 (T's BUSINESS DESIGN) ｜ ビル・キルデイ](biography/世界を変えた地図グーグルマップ誕生の軌跡_NEVER_LOST_AGAIN_グーグルマップ誕生.md)
+ - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00GSHI04M)] (準備中) [闘うプログラマー［新装版］　ビル・ゲイツの野望を担った男達 eBook： G パスカル ザカリー, 山岡 洋一](biography/闘うプログラマー新装版ビル・ゲイツの野望を担った男達.md)
+ - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00RX1951E)] (準備中) [ジョナサン・アイブ　偉大な製品を生み出すアップルの天才デザイナー ｜ リーアンダー ケイニ―, 関 美和, 林 信行（序文）](biography/ジョナサン・アイブ_偉大な製品を生み出すアップルの天才デザイナー.md)
+ - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B07K76331B)] (準備中) [世界を変えた地図グーグルマップ誕生の軌跡 NEVER LOST AGAIN グーグルマップ誕生 (T's BUSINESS DESIGN) ｜ ビル・キルデイ](biography/世界を変えた地図グーグルマップ誕生の軌跡_NEVER_LOST_AGAIN_グーグルマップ誕生.md)
 
 ## デザイン
 
