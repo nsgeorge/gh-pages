@@ -34,7 +34,7 @@ layout: default
  - **Read** [[Amazon](https://www.amazon.co.jp/dp/B00IXF2SVS)] [ビットコインはどのようにして動いているのか？ 数学を使わずに理解するビットコインの動作原理 ｜ 大石哲之](computer_science/ビットコインはどのようにして動いているのか数学を使わずに理解するビットコインの動作原理.md)
  - **Read** [[bitcoinbook](https://bitcoinbook.info/translations-of-mastering-bitcoin/)] [Translations – Mastering Bitcoin](computer_science/Translations – Mastering Bitcoin.md)
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00UAAK07S)] [人工知能は人間を超えるか (角川ＥＰＵＢ選書) ｜ 松尾 豊 ｜ 工学](computer_science/人工知能は人間を超えるか.md)
- - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B07FMR3GD6)] (準備中) [現場のプロから学ぶ　SEO技術バイブル ｜ 西山 悠太朗, 小林 睦, 丸山 弘詩 ｜ 工学](computer_science/現場のプロから学ぶ_SEO技術バイブル.md)
+ - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B07FMR3GD6)] [現場のプロから学ぶ　SEO技術バイブル ｜ 西山 悠太朗, 小林 睦, 丸山 弘詩 ｜ 工学](computer_science/現場のプロから学ぶ_SEO技術バイブル.md)
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00U7A661U)] (準備中) [基礎からわかるTCP/IP　ネットワークコンピューティング入門　第3版 ｜ 村山公保 ｜ 工学](computer_science/基礎からわかるTCP_IP_ネットワークコンピューティング入門_第3版.md)
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B071CD9CMP)] (準備中) [データ分析の力　因果関係に迫る思考法 (光文社新書) ｜ 伊藤 公一朗](computer_science/データ分析の力_因果関係に迫る思考法.md)
  
@@ -58,7 +58,7 @@ layout: default
 
 ## 伝記
 
- - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00GSHI04M)] (準備中) [闘うプログラマー［新装版］　ビル・ゲイツの野望を担った男達 eBook： G パスカル ザカリー, 山岡 洋一](biography/闘うプログラマー新装版ビル・ゲイツの野望を担った男達.md)
+ - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00GSHI04M)] [闘うプログラマー［新装版］　ビル・ゲイツの野望を担った男達 eBook： G パスカル ザカリー, 山岡 洋一](biography/闘うプログラマー新装版ビル・ゲイツの野望を担った男達.md)
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00RX1951E)] (準備中) [ジョナサン・アイブ　偉大な製品を生み出すアップルの天才デザイナー ｜ リーアンダー ケイニ―, 関 美和, 林 信行（序文）](biography/ジョナサン・アイブ_偉大な製品を生み出すアップルの天才デザイナー.md)
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B07K76331B)] (準備中) [世界を変えた地図グーグルマップ誕生の軌跡 NEVER LOST AGAIN グーグルマップ誕生 (T's BUSINESS DESIGN) ｜ ビル・キルデイ](biography/世界を変えた地図グーグルマップ誕生の軌跡_NEVER_LOST_AGAIN_グーグルマップ誕生.md)
 
