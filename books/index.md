@@ -36,7 +36,7 @@ layout: default
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00UAAK07S)] [人工知能は人間を超えるか (角川ＥＰＵＢ選書) ｜ 松尾 豊 ｜ 工学](computer_science/人工知能は人間を超えるか.md)
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B07FMR3GD6)] (準備中) [現場のプロから学ぶ　SEO技術バイブル ｜ 西山 悠太朗, 小林 睦, 丸山 弘詩 ｜ 工学](computer_science/現場のプロから学ぶ_SEO技術バイブル.md)
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B00U7A661U)] (準備中) [基礎からわかるTCP/IP　ネットワークコンピューティング入門　第3版 ｜ 村山公保 ｜ 工学](computer_science/基礎からわかるTCP_IP_ネットワークコンピューティング入門_第3版.md)
- - **New** [[Amazon](https://www.amazon.co.jp/gp/product/B071CD9CMP)] データ分析の力　因果関係に迫る思考法 (光文社新書) ｜ 伊藤 公一朗 ｜ 工学
+ - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B071CD9CMP)] (準備中) [データ分析の力　因果関係に迫る思考法 (光文社新書) ｜ 伊藤 公一朗](computer_science/データ分析の力_因果関係に迫る思考法.md)
  
 ## 開発一般
 
@@ -74,8 +74,8 @@ layout: default
 
  - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/4532321433)] さあ、才能(じぶん)に目覚めよう 新版 ストレングス・ファインダー2.0, トム・ラス, 古屋博子
  - **New** [[Amazon](https://www.amazon.co.jp/gp/product/B00H7RACY8)] 嫌われる勇気 eBook： 岸見 一郎, 古賀 史健
- - **Reading** [[Amazon](https://www.amazon.co.jp/gp/product/B009RO867O)] 論点思考 ｜ 内田 和成 ｜ 実践経営・リーダーシップ
- - **New** [[Amazon](https://www.amazon.co.jp/gp/product/B00H8LHYEE)] 知ってそうで知らなかった ほんとうの株のしくみ (PHP文庫) ｜ 山口 揚平 ｜ ビジネス・経済
+ - **Read** [[Amazon](https://www.amazon.co.jp/gp/product/B009RO867O)] (準備中) [論点思考 ｜ 内田 和成 ｜ 実践経営・リーダーシップ](other/論点思考.md)
+ - **Reading** [[Amazon](https://www.amazon.co.jp/gp/product/B00H8LHYEE)] 知ってそうで知らなかった ほんとうの株のしくみ (PHP文庫) ｜ 山口 揚平 ｜ ビジネス・経済
  - **New** [[Amazon](https://www.amazon.co.jp/gp/product/B00YGIKEI0)] ソラリス (ハヤカワ文庫SF) ｜ スタニスワフ レム, 沼野 充義
  - **New** [[Amazon](https://www.amazon.co.jp/gp/product/B00G5IQOGK)] 宇宙の扉をノックする eBook： リサ・ランドール, ムコウヤマ シンジ, シオバラ　ミチオ, 向山 信治, 塩原 通緒
 
